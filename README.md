@@ -1,4 +1,6 @@
 # Airbnb Listings Analysis - Power BI Project
+## 📊 Project Link
+[![Power Bi](https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg)](https://app.powerbi.com/view?r=eyJrIjoiNWIxMzc3NGUtYThjYi00N2JhLWFiNjAtYjdhMmU0Nzk5MDYwIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9&pageName=bde7ee30d369a179e445)
 
 ## 📊 Project Summary
 
